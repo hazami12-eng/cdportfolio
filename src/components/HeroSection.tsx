@@ -47,7 +47,7 @@ const HeroSection = () => {
         </div>
         <div className="fade-up flex justify-center" style={{ animationDelay: "0.15s" }}>
           <div className="w-80 h-80 lg:w-[420px] lg:h-[420px] rounded-2xl overflow-hidden border border-border shadow-lg">
-            <img src={heroImage} alt="Developer abstract art" className="w-full h-full object-cover" />
+            <img src={heroImage} alt="Dayniel Caadiang" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>

@@ -14,11 +14,6 @@ const projects = [
     description: "A Node.js backend that syncs HubSpot CRM data, calculates pipeline health, generates AI insights with OpenAI.",
     tags: ["Node.js", "Backend", "API","Web"],
   },
-    {
-    title: "AI-Powered CRM Pipeline Health Monitor",
-    description: "A Node.js backend that syncs HubSpot CRM data, calculates pipeline health, generates AI insights with OpenAI.",
-    tags: ["Node.js", "Backend", "API","Web"],
-  },
 ];
 
 const PathToShowcase = () => {
